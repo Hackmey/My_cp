@@ -1,0 +1,3 @@
+Word Search Problems :
+
+create a backtracking solution on the matrix by iterating all the positions on a outer loop that calls the backtracking function.
